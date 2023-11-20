@@ -34,7 +34,7 @@ Execute the program using runserver command.
 </head>
 <body>
 <center>
-<img src="logo.png" width="900" height="200">
+<img src="logoo.png" width="900" height="200">
 </center>
 <table align="center" width="600" cellspacing="3" cellpadding="6" border="8" bgcolor="grey">
 <th bgcolor="grey">Day/Time</th>
