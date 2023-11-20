@@ -129,7 +129,7 @@ Execute the program using runserver command.
 </html>```
 
 ## OUTPUT
-![Alt text](image.png)
+![Alt text](output.png)
 
 ## HTML VALIDATOR
 
